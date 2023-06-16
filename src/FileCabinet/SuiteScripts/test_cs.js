@@ -18,6 +18,7 @@ function() {
      */
     function pageInit(scriptContext) {
         alert("added alert")
+        alert("hii")
     }
 
     /**
